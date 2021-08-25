@@ -2,3 +2,16 @@
 # Class codes
 
 Códigos realizados em sala de aula.
+
+## Linguagens que tenho alguma familiaridade:
+
+- Python
+- C
+- Java
+- SQL
+
+## Áreas de interesse
+
+- Inteligência Artificial
+- Análise de dados
+- Desenvolvimento mobile
