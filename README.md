@@ -3,8 +3,6 @@
 
 Códigos realizados em sala de aula.
 
-Aluno: Ariel Morais Moreira
-
 ## Linguagens que tenho alguma familiaridade:
 
 - Python
